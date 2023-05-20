@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    border-radius: 1000px;
+    background-image: linear-gradient(to right,lime, green);
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.rs {
+    border-radius: 10px;
+    background-image: linear-gradient(to );
+  
+}
+
+header {
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-image: linear-gradient(lime,green);
+    border-radius: 100px;
+    padding: 20PX;
+    text-align: center;
+}
+
+.link-nav {
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-image: linear-gradient(lime,white);
+}
+.link-navv {
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-image: linear-gradient(lime,white);
+}
+
+span {
+    background-color: yellow;
+    padding: 2px;
+}
+
+footer {
+    background-color: lime;
+    border-radius: 10px;
+    top: 10px;
+}
+
+footer a {
+    height: 30px;
+    width: 30px;
+}
+
+a header {
+    font-size: 30px;
+}
+
+
